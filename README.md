@@ -1,5 +1,5 @@
 # Pekrio
-What´s up? 😎\
+Literalmente eu -> 😎\
 Computers go computing
 
 
