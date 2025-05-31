@@ -2,6 +2,7 @@
 What´s up? 😎
 Computers go computing
 
+
 ## Main Languages/Frameworks
 
 ### [Python](https://www.python.org/)
