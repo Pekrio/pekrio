@@ -7,6 +7,6 @@ Computers go computing
 
 ### [Python](https://www.python.org/)
 ### [C](https://en.wikipedia.org/wiki/C_(programming_language)) (Learning)
-[The Minimalist Split-Screen Game](https://github.com/usuario/TMSSG)
+[The Minimalist Split-Screen Game](https://github.com/Pekrio/TMSSG)
 
 ### [C++](https://pt.wikipedia.org/wiki/C%2B%2B) (Learning)
